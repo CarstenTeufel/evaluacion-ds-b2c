@@ -56,5 +56,3 @@ total_rech_num    -0.2760      0.008    -33.166      0.000      -0.292      -0.2
 ==================================================================================
 
 
-
-6.3 Haría un random forest para determinar el churn, sin embargo, me he quedado sin tiempo.
